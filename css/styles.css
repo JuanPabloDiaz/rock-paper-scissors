@@ -49,7 +49,8 @@ content: "\eab0";
 	margin: 0;
 	box-sizing: border-box;
   }
-  
+  html, body {margin: 0; height: 100%; overflow: hidden}
+
   html{
     font-size: 62.5%;
   }
@@ -180,7 +181,7 @@ body.dark .playground__container--items figure {
         display: flex;
         justify-content: center;
         align-items: center;
-        font-size: 1.5rem;
+        font-size: 1.8rem;
     }
 
 
