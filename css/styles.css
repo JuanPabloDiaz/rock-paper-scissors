@@ -69,19 +69,22 @@ content: "\eab0";
         position: absolute;
         top: 5%;
         right: 10%;
-        border: 5px solid var(--color-D);
+        border: 3px solid var(--color-D);
         border-radius: 63px;
-        width: 15%;
+        width: 105px;
+        height: 105px;
+        font-size: 2.1rem;
+        padding-top: 2px;
     }
     .dashboard__score {
         margin: 0;
     }
     .dashboard .VS {
-        font-size: x-small;
+        font-size: 1rem;
         margin: 0;
         border: .5px solid var(--color-text);
         border-radius: 63px;
-        padding: 3px;
+        padding: 2px;
     }
     .rock-paper-scissors img{
         display: flex;
@@ -98,7 +101,7 @@ content: "\eab0";
         align-items: center;
         position: absolute;
         top: 30%;
-        left: 10%;
+        right: 10%;
         /* width: 300px; */
         font-size: 2rem;
     }

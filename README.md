@@ -10,9 +10,7 @@ Classic game ROCK, PAPER, SCISSORS to play in the browser. Responsive Design bui
 
 ---
 > Description : Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors". This project was developed using JavaScript ❤ HTML and CSS but my main focus was JS.
-
 ---
-
 
 <div align="center">
 
@@ -48,6 +46,8 @@ Basic Rules...
 ## License 📜
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+- Inspired by [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH) & [Platzi](https://www.platzi.com)
+
 
 <!-- CONTACT -->
 
