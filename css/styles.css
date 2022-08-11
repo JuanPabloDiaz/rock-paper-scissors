@@ -225,7 +225,7 @@ body.dark .playground__container--items figure {
     .playground__title {
         position: absolute;
         top: 6%;
-        font-size: 1.3em;
+        font-size: 3.5rem;
         left: 18%;
     }
     .playground__container {
@@ -238,6 +238,7 @@ body.dark .playground__container--items figure {
     .dashboard .VS {
         }
     .dashboard {
+        font-size: 1.5rem;
         top: 19%;
         left: 30%;
         right: 10%;
@@ -252,7 +253,6 @@ body.dark .playground__container--items figure {
         left: 14%;
     }
     .dashboard {
-        font-size: 1.5rem;
         left: 29%;
         width: 42%;
     }
