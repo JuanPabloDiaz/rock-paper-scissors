@@ -6,11 +6,16 @@
 <!-- ABOUT THE PROJECT -->
 
 ## Description 💡
-Classic game ROCK, PAPER, SCISSORS to play in the browser. Responsive Design built with JavaScript.
+---
+> Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors". This project was developed using JavaScript ❤ HTML and CSS but my main focus was JS.
+---
+<!-- BUILD WITH -->
 
----
-> Description : Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors". This project was developed using JavaScript ❤ HTML and CSS but my main focus was JS.
----
+## Built With 🔑
+
+This project was bootstrapped with discipline and hard work.
+
+This project was build with Hyper Text Markup Language (HTML), Cascading Style Sheets(CSS) and Javascript (JS).
 
 <div align="center">
 
@@ -41,10 +46,31 @@ Basic Rules...
 - Did you know that this game first appeared in China in the 17th century? Yes, it was not invented in Europe or America but in Asia. Europe started to play this game only in 19th century.
 - Statistics say that people usually choose Scissors in the first round and Rock in the second.
 
-## Desktop View
+<!-- CONTENT -->
+
+## Content 🚦
+
+Classic game ROCK, PAPER, SCISSORS to play in the browser. Responsive Design built with JavaScript.
+
+### Project deployed using:
+ - Vercel: [View Demo](https://youtube-ten-beta.vercel.app/)
+
+- Github Pages: [https://juanpablodiaz.github.io/rock-paper-scissors](https://juanpablodiaz.github.io/rock-paper-scissors/)
+
+<!-- VIEWS -->
+
+### Desktop Screen 💻
+
 <div align="center">
 
 ![](./img/desktop.png)
+</div>
+
+### Mobile Screen 📱
+
+<div align="center">
+
+![](./img/mobile.png)
 </div>
 
 <!-- LICENSE -->
@@ -55,17 +81,20 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 - Inspired by [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH) & [Platzi](https://www.platzi.com)
 
 
-<!-- CONTACT -->
+<!-- PROJECTS -->
 
-## Contact 📞
+## Projects 🚀
 
 ![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
 [![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
 [![](https://img.shields.io/badge/2022-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022)
+<!-- CONTACT -->
 
-- Juan Diaz <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"><img src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" width="20" alt="linkedin" /></a>
-  <a href="https://www.twitter.com/1diazdev" title="twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="20" alt="twitter" /></a>
-  <a href="mailto:jdiaz028@email.cpcc.edu" title="email"><img src="https://th.bing.com/th/id/R.c1788ceb22d4f2c44e1ebba0baa045f0?rik=Xgo0FJUU748GNQ&riu=http%3a%2f%2fwww.add-tek.com%2fwp-content%2fuploads%2f2019%2f05%2femail-icon.png&ehk=43jcVRhbG574owWTo3L146ImtAi%2b2i8D84wPIcvuyAc%3d&risl=&pid=ImgRaw&r=0" width="20" alt="email" /></a>
+## Contact 📞
+
+[![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/1diazdev/)
+[![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://www.twitter.com/1diazdev)
+[![](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:juan.diaz93@hotmail.com)
 
  ## Courses & Certifications
 
@@ -84,4 +113,5 @@ Resources list that I find helpful and would like to give credit to.
 - [zenorocha](https://gist.github.com/zenorocha/4526327)
 - [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 - [Git doc](https://git-scm.com/doc)
+
 <p align="right">(<a href="#top">👆top👆</a>)</p>
