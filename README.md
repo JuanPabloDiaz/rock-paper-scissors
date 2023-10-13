@@ -31,7 +31,7 @@ This project was build with Hyper Text Markup Language (HTML), Cascading Style S
 
 ## Github link (Live Demo)
 
-[https://juanpablodiaz.github.io/rock-paper-scissors/](https://juanpablodiaz.github.io/rock-paper-scissors/) 👈 Live Demo Link 
+[DEMO](https://rock-paper-scissors-liard-delta.vercel.app/) 👈 Live Demo Link 
 
 ## How To Play
 
