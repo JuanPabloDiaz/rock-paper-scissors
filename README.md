@@ -29,10 +29,6 @@ This project was build with Hyper Text Markup Language (HTML), Cascading Style S
 ![](./img/github.png)
 </div>
 
-## Vercel link (Live Demo)
-
-[Click here](https://rock-paper-scissors-jpdiaz.vercel.app/) 👈 Live Demo Link 
-
 ## How To Play
 
 Basic Rules...
@@ -53,7 +49,8 @@ Basic Rules...
 Classic game ROCK, PAPER, SCISSORS to play in the browser. Responsive Design built with JavaScript.
 
 ### Project deployed using:
- - Vercel: [View Demo](https://youtube-ten-beta.vercel.app/)
+
+ - Vercel: [View Demo](https://youtube-ten-beta.vercel.app/](https://rock-paper-scissors-jpdiaz.vercel.app/) 👈 Live Demo Link 
 
 - Github Pages: [https://juanpablodiaz.github.io/rock-paper-scissors](https://juanpablodiaz.github.io/rock-paper-scissors/)
 
