@@ -50,7 +50,7 @@ Classic game ROCK, PAPER, SCISSORS to play in the browser. Responsive Design bui
 
 ### Project deployed using:
 
- - Vercel: [View Demo](https://youtube-ten-beta.vercel.app/](https://rock-paper-scissors-jpdiaz.vercel.app/) 👈 Live Demo Link 
+ - Vercel: [View Demo](https://rock-paper-scissors-jpdiaz.vercel.app/) 👈 Live Demo Link 
 
 - Github Pages: [https://juanpablodiaz.github.io/rock-paper-scissors](https://juanpablodiaz.github.io/rock-paper-scissors/)
 
