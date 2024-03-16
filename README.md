@@ -63,12 +63,9 @@ Classic game ROCK, PAPER, SCISSORS to play in the browser. Responsive Design bui
 ![](./img/desktop.png)
 </div>
 
-### Mobile Screen 📱
+### Lighthouse Score 🚀
 
-<div align="center">
-
-![](./img/mobile.png)
-</div>
+![](./img/lighthouse.png)
 
 <!-- LICENSE -->
 
